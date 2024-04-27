@@ -5,11 +5,11 @@
     vertical-align: top;
 }
 
-#Logo{
-    scale: 0.1;
+.Logo{
+    scale: 0.25;
     width: 23%;
     padding: 1%;
-    text-align: center;
+    text-align: left;
 }
 
 .nav{
@@ -24,6 +24,9 @@ ul{
 .aboutHero{
 height: 500px;
 padding: 50px;
+grid: auto;
+background-color: #C9FCFA;
+margin-left: auto;
 }
 
 
@@ -31,6 +34,8 @@ padding: 50px;
     height: 500px;
     padding: 50px;
     margin-right: auto;
+    background-color: #F8FB9D;
+
     }
 
 p, br{
